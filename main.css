@@ -1,0 +1,133 @@
+/*tipografia
+font-family: 'Source Sans Pro', sans-serif;*/
+/* MENU SUPERIOR*/
+.arriba{
+  position: fixed;
+  background-color: white;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+.menu {
+  height: 4.5em;
+  width: 79em;
+  border-bottom: 1px solid #D8D8D8;
+}
+.fa-pinterest {
+  color: red;
+  margin-left: 1.5em;
+  margin-top: 0.5em;
+  position: absolute;
+}
+.search-box {
+  background-color: #E6E6E6;
+  width: 55em;
+  height: 3em;
+  margin-left: 6em;
+  margin-top: 0.5em;
+  position: absolute;
+}
+.input {
+  background-color: transparent;
+  border: none;
+  margin-left: 2.75em;
+  margin-top: 0.3em;
+  width: 40em;
+  height: 2em;
+  position: absolute;
+}
+.fa-search {
+  margin-left: 3em;
+  margin-top: 1em;
+  position: absolute;
+}
+.fa-times {
+  margin-left: 46.5em;
+  margin-top: 1em;
+  position: absolute;
+}
+.texto {
+  position: absolute;
+  margin-left: 48em;
+  font-weight: bold;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.fa-angle-down {
+  margin-left: 25.7em;
+  margin-top: 0.25em;
+  position: absolute;
+}
+.fa-user {
+  margin-left: 29em;
+  margin-top: 0.25em;
+  position: absolute;
+  color: #BDBDBD;
+}
+.fa-bars {
+  margin-left: 31em;
+  margin-top: 0.25em;
+  position: absolute;
+  color: #BDBDBD;
+}
+.fa-commenting{
+  margin-left: 33em;
+  margin-top: 0.25em;
+  position: absolute;
+  color: #BDBDBD;
+}
+
+.botones{
+  display: inline-block;
+  margin: 0.5em;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: bold;
+  color: white;
+  height: 4em;
+  width: 7em;
+  text-align: center;
+}
+.boton-1{
+  background-color: #604C41;
+}
+.boton-2 {
+  background-color: #987967;
+}
+.boton-3 {
+  background-color: #DE8A5B;
+}
+.boton-4{
+  background-color: #EC912F;
+}
+.boton-5{
+  background-color: #EFC356;
+}
+.boton-6{
+  background: #EBD61D;
+}
+.boton-7{
+  background-color: #F6E86D;
+}
+.boton-8{
+  background-color: #EDF98D;
+}
+.boton-9{
+  background-color: #CEE809;
+}
+
+.images{
+  margin-top: 1em;
+}
+
+.imagens {
+  width: 18em;
+  height: 50em;
+/*display: inline-block;*/
+  float: right;
+}
+
+.imagen {
+  width: 18em;
+  height: 80em;
+    /*display: inline-block;*/
+  float: right;
+}
